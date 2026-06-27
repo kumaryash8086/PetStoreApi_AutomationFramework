@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Petstore Regression Suite" verbose="1">
+    <test name="Regression Tests">
+        <classes>
+            <class name="com.petstore.runners.PetstoreRegressionRunner"/>
+        </classes>
+    </test>
+</suite>

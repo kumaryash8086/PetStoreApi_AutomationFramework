@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Petstore API Suite" verbose="1" parallel="false">
+    <test name="All Tests">
+        <classes>
+            <class name="com.petstore.runners.PetstoreTestRunner"/>
+        </classes>
+    </test>
+</suite>

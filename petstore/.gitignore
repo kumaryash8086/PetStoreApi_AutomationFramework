@@ -1,0 +1,22 @@
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ (if someone opens the project in IntelliJ)
+.idea/
+*.iml
+
+# TestNG Reports
+test-output/
+
+# Logs
+logs/
+*.log
+
+# Allure Reports
+allure-results/
+allure-report/
